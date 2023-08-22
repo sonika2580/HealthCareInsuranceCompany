@@ -1,7 +1,7 @@
 # Healthcare Insurance Company Requirement Specification Document
 
 ## Introduction
-### Objectives:
+### Objectives
 The main objective of this project is to incorporate the big data ecosystem into the company’s operations to help the company grow the revenue and understand its customers. In addition, the project seeks to adeptly analyze the data pertaining to competitor companies, received from diverse sources and formats. This analysis will help track behaviors and condition of customers there by enabling the precise customized offers for target customer. This approach aims to simulate the acquisition of insurance policies and accurately calculate royalties to those customers who have previously brought policies and subsequently help to enhance the revenue.
 
 ### Goal
@@ -49,3 +49,17 @@ This project will help various endpoint user such as data scientist and data ana
   <li>List female patients over the age of 40 that have undergone knee surgery in the past year	</li>
 </ul>
 
+### External Interface Requirements
+The project aims to utilize various external resources for the completion such as:
+<ul>
+   <li>Operating System: Windows 11</li>
+   <li>Cloud Services like AWS or Azure</li>
+   <li>Big data processing tools like pyspark </li>
+</ul>
+
+### System Features
+<ul>
+   <li>Seamlessly source and unify raw data from diverse sources.</li>
+   <li>Develop insights through robust competitor data processing and reporting.</li>
+   <li>Monitor real-time customer interactions and preferences</li>
+</ul>
